@@ -1,4 +1,4 @@
-# EverAfter – Product Hackathon Submission
+# Uni-Circle ( Your Campus - Your Circle ) - Digital Product
 
 **👥 Team Role:** Product Manager  
 **Digital Product**  Uni-Circle- Your Campus - Your Circle
