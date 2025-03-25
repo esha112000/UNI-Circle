@@ -16,7 +16,7 @@ There is no campus-first, inclusive engagement platform where both domestic and 
 The result? Missed opportunities for cultural exchange, peer support, and a reduced sense of belonging especially for students managing academic and part-time work commitments.
 ---
 
-## 💡 Our Solution – EverAfter
+## 💡 Our Solution 
 
 To create a trusted, campus-exclusive platform that fosters authentic, interest-based social connections among students domestic and international by simplifying event discovery, facilitating meaningful interactions, and strengthening the overall sense of community on campus.
 We envision UNI-CIRCLE as the central hub for students to seamlessly engage in university life, regardless of cultural background, schedule constraints, or academic load.
