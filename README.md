@@ -59,7 +59,7 @@ We envision UNI-CIRCLE as the central hub for students to seamlessly engage in u
 
 ## 💭 What's Next?
 We’re planning to:
-- Product Strategy
+- PRD Presentation
 - Figma (Working Prototype)
 - Developed Application
 
