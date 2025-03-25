@@ -34,12 +34,12 @@ We envision UNI-CIRCLE as the central hub for students to seamlessly engage in u
 ---
 
 ## 🧑‍🎨 Figma Prototype  
-👉 [Click here to view the Figma](https://www.figma.com/your-prototype-link)
+👉 Click here to view the Figma (https://www.figma.com/your-prototype-link)
 
 ---
 
 ## 📄 Documentation  
-- [Click here to view the Product Strategy] (https://lnkd.in/dKhHvk2Z)
+- Click here to view the Product Strategy (https://lnkd.in/dKhHvk2Z)
 ---
 
 ## 🚀 Outcome
