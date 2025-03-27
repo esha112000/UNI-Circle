@@ -1,6 +1,6 @@
 # Uni-Circle ( Your Campus - Your Circle ) - Digital Product
 
-**👥 Team Role:** Product Manager  
+**👥 Team Role:** Product Owner
 **🧾Digital Product:** Uni-Circle
 **📅 Date:** 2025
 
