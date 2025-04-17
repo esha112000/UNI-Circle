@@ -34,7 +34,8 @@ We envision UNI-CIRCLE as the central hub for students to seamlessly engage in u
 ---
 
 ## 🧑‍🎨 Figma Prototype  
-👉 Click here to view the Figma (https://www.figma.com/your-prototype-link)
+👉 Click here to view the Lo-fi Figma (https://www.figma.com/your-prototype-link)
+👉 Click here to view the Full Prototype ( https://www.figma.com/proto/z49p3gC6pJsQWhjRNL2pGG/Unicircle-PRD?node-id=2-2317&p=f&t=KKpK5t6F0kRKYX0s-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2317 )
 
 ---
 
